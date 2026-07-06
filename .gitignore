@@ -1,0 +1,12 @@
+# Python gitignore
+.venv/
+venv/
+ENV/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.agents/
